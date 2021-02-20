@@ -1,0 +1,28 @@
+Train metrics:
+                    precision    recall  f1-score   support
+
+              Bebê       0.85      0.70      0.77      4873
+Bijuterias e Jóias       0.88      0.90      0.89       637
+         Decoração       0.75      0.84      0.79      6114
+     Lembrancinhas       0.87      0.86      0.87     12289
+            Outros       0.40      0.62      0.49       791
+       Papel e Cia       0.56      0.50      0.53      1896
+
+          accuracy                           0.80     26600
+         macro avg       0.72      0.74      0.72     26600
+      weighted avg       0.80      0.80      0.80     26600
+
+
+Test metrics:
+                    precision    recall  f1-score   support
+
+              Bebê       0.82      0.69      0.75      2057
+Bijuterias e Jóias       0.83      0.85      0.84       303
+         Decoração       0.73      0.82      0.78      2609
+     Lembrancinhas       0.86      0.85      0.86      5235
+            Outros       0.35      0.56      0.43       342
+       Papel e Cia       0.50      0.42      0.46       854
+
+          accuracy                           0.77     11400
+         macro avg       0.68      0.70      0.69     11400
+      weighted avg       0.78      0.77      0.78     11400
